@@ -1,17 +1,45 @@
-# todo_app
+# Flutter Todo App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Flutterを使って作成したTodoアプリです。
 
-This project is a starting point for a Flutter application.
+Todoの追加・編集・削除など、基本的なタスク管理機能を実装しています。
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Todoの追加
+* Todoの編集
+* Todoの削除
+* Todoの完了状態の管理
+* Todo一覧の表示
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+* Flutter
+* Dart
+
+## Screenshots
+
+
+## What I Learned（学習内容）
+
+* FlutterのWidget
+* UIレイアウト
+* StatefulWidget / StatelessWidget
+* ListView
+* TextField
+* ボタンや画面操作
+* データの管理
+* Git / GitHub
+
+## Development
+
+Flutterの学習を進める中で、基本的なUIやデータ操作を実際に実装することを目的として作成しました。
+
+## Future Improvements
+
+* データの永続化
+* Todoのカテゴリー分け
+* 検索・フィルター機能
+* UI / UXの改善
