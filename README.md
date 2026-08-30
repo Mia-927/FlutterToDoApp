@@ -20,7 +20,8 @@ Todoの追加・編集・削除など、基本的なタスク管理機能を実�
 * Dart
 
 ## Screenshots
-
+<img width="500" height="600" alt="スクリーンショット 2026-08-30 194441" src="https://github.com/user-attachments/assets/33d9cb0f-be40-4c26-a2a6-78202147182a" />
+<img width="500" height="600" alt="スクリーンショット 2026-08-30 194653" src="https://github.com/user-attachments/assets/266c34d6-4004-44e0-902c-617fde93c59a" />
 
 ## What I Learned（学習内容）
 
